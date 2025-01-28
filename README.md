@@ -1,6 +1,6 @@
 # CurrencyConverter
 
-ENG:
+  ENG:
 CurrencyConverter is an application that allows converting amounts between different currencies using current exchange rates.
 
 Features:
@@ -11,7 +11,7 @@ Up-to-date exchange rates: The application fetches the latest currency exchange 
 
 Support for multiple currencies: Enables conversion between various currencies.
 
-PL:
+  PL:
 CurrencyConverter to aplikacja umożliwiająca konwersję kwot pomiędzy różnymi walutami z wykorzystaniem aktualnych kursów wymiany.
 
 Funkcje:
